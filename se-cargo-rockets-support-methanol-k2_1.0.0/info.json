@@ -1,0 +1,12 @@
+{
+  "name": "se-cargo-rockets-support-methanol-k2",
+  "title": "Space Exploration - cargo rockets support biomethanol as space fuel",
+  "description": "Cargo rockets may also be fueled with biomethanol.",
+  "version": "1.0.0",
+  "author": "Ceelo",
+  "factorio_version": "1.1",
+  "dependencies": [
+      "se-cargo-rocket-custom-fuel-lib",
+      "Krastorio2"
+  ]
+}
